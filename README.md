@@ -1,10 +1,10 @@
 ## Sejam bem vindos ao meu perfil! (❁´◡`❁)
 
 <a href="https://github.com/jacquelinemathias/github-readme-stats&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jacquelines-projects-2aedf74a.vercel.app/api?username=jacquelinemathias&show_icons=true&theme=gruvbox&card_width=320"/>
+  <img height=200 align="center" src="https://vercel.com/jacquelines-projects-2aedf74a/github-readme-stats/Hb8TgJ5zhV6dKYnjWu3zAGzFJgtb/api?username=jacquelinemathias&show_icons=true&theme=gruvbox&card_width=320"/>
 </a>
 <a href="https://github.com/jacquelinemathias/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jacquelines-projects-2aedf74a.vercel.app/api/top-langs/?username=jacquelinemathias&layout=compact&theme=gruvbox&card_width=320" />
+  <img height=200 align="center" src="https://vercel.com/jacquelines-projects-2aedf74a/github-readme-stats/Hb8TgJ5zhV6dKYnjWu3zAGzFJgtb/api/top-langs/?username=jacquelinemathias&layout=compact&theme=gruvbox&card_width=320" />
 </a>
 
 ## #30NitesOfCode:
